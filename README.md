@@ -1,5 +1,8 @@
 # eslint-config-adorsys
 
+Extends rules from [airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
+As specified in the [official Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
+
 ## Setup
 
 npm install from this repo
